@@ -2,6 +2,7 @@
 Easy Monetization for WordPress websites, designed to help the integration of the publisher code from Ads1K.Com
 
 === Ads1K Official Plugin & Integration Tool ===
+
 Contributors: Ads1K
 Tags: ads1k.com, ads1k, ads 1k, code, integrator, integration, popunder, pop-under, redirect, script, snippet, tool, website ads, advertising, monetize, monetize website, make money, ads on website, CPM ads, adsense alternative, ads injection, adsense, adserving, advert, advertising, earn, earnings, javascript, monetisation, monetise, monetization, plugin, revenues, traffic, url, wordpress
 Requires at least: 3.0.1
