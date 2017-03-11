@@ -1,0 +1,1 @@
+upload the plugin files from "ads1k-official" folder to the "/wp-content/plugins/ads1k-official
